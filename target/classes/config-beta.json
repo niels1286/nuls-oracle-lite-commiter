@@ -1,0 +1,12 @@
+{
+  "chainId": 2,
+  "intervalMinite": 10,
+  "oracleContract": "tNULSeBaN48anzp2dE6H546bEu8BFwPKQAU4dj",
+  "nulsApiUrl": "http://beta.api.nuls.io",
+  "commiterAccoutPrikey": "055f2b3d21eea4b8902c9fd6a1885df6c4b61dadc6dba7ba3aff5f3ca2acbd8e",
+  "assetSystemUrl": "https://beta.assets.nabox.io/api/",
+  "assets": [
+    "2-1",
+    "5-1"
+  ]
+}

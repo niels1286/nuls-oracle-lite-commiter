@@ -1,0 +1,25 @@
+2022-06-15 09:22:22.906  [pool-1-thread-1] INFO  - io.nuls.oracle.commiter.task.PriceCollectTask.run(PriceCollectTask.java:21):Start collet prices.
+2022-06-15 09:22:23.162  [main] WARN  - io.nuls.core.parse.I18nUtils.load(I18nUtils.java:108):language folder not exists
+2022-06-15 09:22:23.162  [main] INFO  - io.nuls.core.parse.I18nUtils.load(I18nUtils.java:113):furl.getPath()=file:/Users/niels/.m2/repository/io/nuls/v2/sdk4j-jdk8/1.1.17.RELEASE/sdk4j-jdk8-1.1.17.RELEASE.jar!/languages
+2022-06-15 09:22:23.163  [main] INFO  - io.nuls.core.parse.I18nUtils.load(I18nUtils.java:136):languages/en.properties
+2022-06-15 09:22:23.165  [main] INFO  - io.nuls.core.parse.I18nUtils.load(I18nUtils.java:142):key[1]=en
+2022-06-15 09:22:23.167  [main] INFO  - io.nuls.oracle.commiter.App.main(App.java:32):System start ....
+2022-06-15 09:22:28.106  [pool-1-thread-1] INFO  - io.nuls.oracle.commiter.task.PriceCollectTask.run(PriceCollectTask.java:24):Offered Submiter.
+2022-06-15 09:22:28.107  [Thread-1] INFO  - io.nuls.oracle.commiter.utils.blockchain.BatchSubmitUtil.SUBMIT(BatchSubmitUtil.java:87):2-1 : 0.1664
+2022-06-15 09:22:28.107  [Thread-1] INFO  - io.nuls.oracle.commiter.utils.blockchain.BatchSubmitUtil.SUBMIT(BatchSubmitUtil.java:87):5-1 : 0.0120
+2022-06-15 09:22:31.647  [Thread-1] INFO  - io.nuls.oracle.commiter.task.PriceCommitTask.run(PriceCommitTask.java:40):Submit success: 6088267007724aa0086478b0dcd5cce133e0dee8ad0dac52e87819faeef55184
+2022-06-15 09:32:28.157  [pool-1-thread-1] INFO  - io.nuls.oracle.commiter.task.PriceCollectTask.run(PriceCollectTask.java:21):Start collet prices.
+2022-06-15 09:32:33.540  [pool-1-thread-1] INFO  - io.nuls.oracle.commiter.task.PriceCollectTask.run(PriceCollectTask.java:24):Offered Submiter.
+2022-06-15 09:32:33.540  [Thread-1] INFO  - io.nuls.oracle.commiter.utils.blockchain.BatchSubmitUtil.SUBMIT(BatchSubmitUtil.java:87):2-1 : 0.1666
+2022-06-15 09:32:33.541  [Thread-1] INFO  - io.nuls.oracle.commiter.utils.blockchain.BatchSubmitUtil.SUBMIT(BatchSubmitUtil.java:87):5-1 : 0.0120
+2022-06-15 09:32:35.194  [Thread-1] INFO  - io.nuls.oracle.commiter.task.PriceCommitTask.run(PriceCommitTask.java:40):Submit success: 60b8ef799e1bfef4f293457f80a2b443759f39f653c413d12707fa67b0ebba08
+2022-06-15 09:42:33.547  [pool-1-thread-1] INFO  - io.nuls.oracle.commiter.task.PriceCollectTask.run(PriceCollectTask.java:21):Start collet prices.
+2022-06-15 09:42:35.832  [pool-1-thread-1] INFO  - io.nuls.oracle.commiter.task.PriceCollectTask.run(PriceCollectTask.java:24):Offered Submiter.
+2022-06-15 09:42:35.832  [Thread-1] INFO  - io.nuls.oracle.commiter.utils.blockchain.BatchSubmitUtil.SUBMIT(BatchSubmitUtil.java:87):2-1 : 0.1669
+2022-06-15 09:42:35.832  [Thread-1] INFO  - io.nuls.oracle.commiter.utils.blockchain.BatchSubmitUtil.SUBMIT(BatchSubmitUtil.java:87):5-1 : 0.0120
+2022-06-15 09:42:37.783  [Thread-1] INFO  - io.nuls.oracle.commiter.task.PriceCommitTask.run(PriceCommitTask.java:40):Submit success: 65702705d5f99f7f67e43c13661716df38d29fa7c448bdfe83f6d6a351d557e0
+2022-06-15 09:52:35.869  [pool-1-thread-1] INFO  - io.nuls.oracle.commiter.task.PriceCollectTask.run(PriceCollectTask.java:21):Start collet prices.
+2022-06-15 09:52:38.201  [pool-1-thread-1] INFO  - io.nuls.oracle.commiter.task.PriceCollectTask.run(PriceCollectTask.java:24):Offered Submiter.
+2022-06-15 09:52:38.201  [Thread-1] INFO  - io.nuls.oracle.commiter.utils.blockchain.BatchSubmitUtil.SUBMIT(BatchSubmitUtil.java:87):2-1 : 0.1689
+2022-06-15 09:52:38.201  [Thread-1] INFO  - io.nuls.oracle.commiter.utils.blockchain.BatchSubmitUtil.SUBMIT(BatchSubmitUtil.java:87):5-1 : 0.0118
+2022-06-15 09:52:39.718  [Thread-1] INFO  - io.nuls.oracle.commiter.task.PriceCommitTask.run(PriceCommitTask.java:40):Submit success: 181a8ddf583a66d087e11f6a61b3a98c79fe72176a2fc186094dc2ebcc79e61f
