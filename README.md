@@ -38,3 +38,8 @@
     "5-1"
   ]
 ```
+### 扩展其他价格来源
+修改以下代码
+```aidl
+io.nuls.oracle.commiter.task.PriceCollectTask
+```
