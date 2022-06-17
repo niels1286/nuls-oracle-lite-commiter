@@ -1,6 +1,10 @@
 # NULS轻量版预言机功能说明
 ## 合约说明
 * 测试网合约地址： tNULSeBaN48anzp2dE6H546bEu8BFwPKQAU4dj
+* 合约源码
+
+https://github.com/niels1286/nuls-oracle-lite
+
 ### 合约功能
 #### 功能说明 
 管理员可以存储字符串key-value对倒合约中，并可以随时更新value值。
